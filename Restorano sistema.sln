@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Restorano_sistema", "Restorano sistema\Restorano_sistema.csproj", "{D8B70332-365D-4DA5-8398-BE9726974047}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8B70332-365D-4DA5-8398-BE9726974047}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8B70332-365D-4DA5-8398-BE9726974047}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8B70332-365D-4DA5-8398-BE9726974047}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8B70332-365D-4DA5-8398-BE9726974047}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B271AA1-B9B8-4CF2-99EC-66AB463B33F0}
+	EndGlobalSection
+EndGlobal
